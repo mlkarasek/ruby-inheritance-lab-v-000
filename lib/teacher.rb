@@ -6,10 +6,4 @@ def teach
   KNOWLEDGE.sample
 end
 
-
-  def knowledge
-    @knowledge= []
-  end
-
-
 end
